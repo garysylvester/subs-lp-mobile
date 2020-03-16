@@ -357,6 +357,7 @@ design/images/8rkHyIQnWQw1Mnh1bJnJSH4cbBI.png
 design/images/7j2SKQ1Xrp6HE1xGIf34l52e9s.png
 design/images/6HB0wiCDcVq0isj2ZUWANxmrSE.png
 design/images/5QFTP80WDBW9jcWm2m7txUaOBI.png
+design/images/31ekbMB4r4Ixol0dak5dFM7orok.png
 design/images/0PynJeVtgH4Bj5ZDIa7TilofM0.png
 code/fonts/fonts.css
 code/fonts/BrownPro-Regular.otf

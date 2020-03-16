@@ -15,6 +15,7 @@ body {
     margin: 0px;
     overflow: hidden;
     -webkit-overflow-scrolling: hidden;
+    background-color: #171A29;
 }
 
 body,
