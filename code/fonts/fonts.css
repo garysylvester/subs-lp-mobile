@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'BrownPro';
+    font-weight: 300;
+    src: url('/code/fonts/BrownPro-Light.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BrownPro';
+    font-weight: 400;
+    src: url('/code/fonts/BrownPro-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BrownPro';
+    font-weight: 500;
+    src: url('/code/fonts/BrownPro-Bold.otf') format('otf');
+}
+
+
+
+@font-face {
+    font-family: 'BrownPro-Light';
+    font-weight: 300;
+    src: url('/code/fonts/BrownPro-Light.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BrownPro-Regular';
+    font-weight: 400;
+    src: url('/code/fonts/BrownPro-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'BrownPro-Bold';
+    font-weight: 500;
+    src: url('/code/fonts/BrownPro-Bold.otf') format('otf');
+}
